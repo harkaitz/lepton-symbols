@@ -12,4 +12,7 @@
    )
  (reverse '(
     ("generic" "Generic Symbols (Harkaitz)")
+    ("components" "Components (Harkaitz)")
+    ("network" "Networking Symbols (Harkaitz)")
+    ("power" "Power Symbols (Harkaitz)")
     )))
